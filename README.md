@@ -1,10 +1,10 @@
 # Shopee Video Downloader v2
 
-Minimal Chrome Extension Manifest V3 for detecting and downloading Shopee MY/SG product videos.
+Minimal Chrome Extension Manifest V3 for detecting and downloading Shopee product videos across supported Shopee regions.
 
 ## Scope
 
-- Runs on `shopee.com.my`, subdomains of `shopee.com.my`, `shopee.sg`, and subdomains of `shopee.sg`.
+- Runs on supported Shopee regions: Malaysia, Singapore, Thailand, Indonesia, Philippines, Vietnam, Taiwan, and Brazil.
 - Detects video URLs from:
   - `video.currentSrc`
   - `video.src`
